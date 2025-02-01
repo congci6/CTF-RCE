@@ -4,7 +4,7 @@
 测试仅可用取反，异或，或可用，自增与临时文件不可用
 
 ***取反
-![image](https://github.com/congci6/CTF-RCE/images/qufan.png)
+![image](https://github.com/congci6/CTF-RCE/blob/main/images/qufan.png)
 
 ***异或
 ![image](https://github.com/congci6/CTF-RCE/images/yihuo.png)
