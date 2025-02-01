@@ -86,7 +86,7 @@ class RCEGenerator:
 class Application(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("CTF-无字母RCE v1.0")
+        self.title("CTF-无字母RCE v1.0 by congci6")
         self.geometry("900x700")
         self._create_widgets()
 
